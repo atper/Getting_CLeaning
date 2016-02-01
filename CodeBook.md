@@ -6,9 +6,13 @@ The original data is from an experiment carried out with a group of 30 volunteer
 The final dataset contains average of the the mean and standard deviation measurements for each activity and each subject.
 
 * Variables
+
 subject: Subject identifies (1-30).
+
 activity: Six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+
 tBodyAcc-mean()-X
 : Average of the corresponding variables for each activity and each subject.
+
 Other variables are the same as tBodyAcc-mean()-X.
 
